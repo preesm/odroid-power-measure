@@ -1,3 +1,4 @@
+package org.preesm.odroid.monitor;
 
 public class GPUStatsRetrieval extends InfoRetrieval {
 	private static final String POWER_FILE_GPU = "/sys/bus/i2c/drivers/INA231/4-0044/sensor_W";

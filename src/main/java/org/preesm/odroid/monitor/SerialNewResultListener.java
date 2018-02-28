@@ -1,3 +1,4 @@
+package org.preesm.odroid.monitor;
 import jssc.SerialPort;
 import jssc.SerialPortEvent;
 import jssc.SerialPortEventListener;

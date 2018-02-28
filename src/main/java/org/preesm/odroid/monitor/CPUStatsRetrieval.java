@@ -1,3 +1,4 @@
+package org.preesm.odroid.monitor;
 
 public class CPUStatsRetrieval extends InfoRetrieval{
 	private static final String POWER_FILE_A7 = "/sys/bus/i2c/drivers/INA231/4-0045/sensor_W";

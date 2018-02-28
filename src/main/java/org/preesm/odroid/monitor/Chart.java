@@ -1,3 +1,4 @@
+package org.preesm.odroid.monitor;
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.List;

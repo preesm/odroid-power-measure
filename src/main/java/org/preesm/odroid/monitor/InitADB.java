@@ -1,3 +1,4 @@
+package org.preesm.odroid.monitor;
 
 public class InitADB extends InfoRetrieval {
 	private static final String COMMAND_INIT_ADB = "adb devices";

@@ -1,3 +1,4 @@
+package org.preesm.odroid.monitor;
 
 public class MemStatsRetrieval extends InfoRetrieval {
 	private static final String POWER_FILE_MEM = "/sys/bus/i2c/drivers/INA231/4-0041/sensor_W";
